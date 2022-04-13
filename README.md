@@ -1,29 +1,13 @@
-# React Crash Course 2021 (Task Tracker App)
+# React Todo List with Date
 
-This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
+Small project that was adds date to a task list
 
-## Usage
 
-### Install dependencies
+## Authors
 
-```
-npm install
-```
+- [@darwin2342](https://www.github.com/darwin2342)
 
-### Run React dev server (http://localhost:3000)
 
-```
-npm start
-```
+## Screenshots
 
-### Run the JSON server (http://localhost:5000)
-
-```
-npm run server
-```
-
-### To build for production
-
-```
-npm run build
-```
+<a href="https://ibb.co/3vSt25d"><img src="https://i.ibb.co/cw2z0K3/413.png" alt="413" border="0" /></a>
